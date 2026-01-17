@@ -1,11 +1,11 @@
-## 👋 Hi there! I'm Shatadrumi  
+## Hi there! I'm Shatadrumi  
 
-I’m a Mathematics & Computing undergrad at **IIT Patna**, a curious coder, classical dancer, and part-time poet.
-Thanks for stopping by — always up for talking algorithms, art, or academia.
+I’m a Mathematics & Computing sophomore at **IIT Patna**, a curious coder, classical dancer, and part-time poet.
+Thanks for stopping by — here's a menu of my curations :)
 
 <br>
 
-### 🧠 About Me  
+### About Me  
 
 - Currently exploring: Machine Learning & Competitive Programming <br>
 - Fun fact: I’ve been a Bharatanatyam dancer for 12+ years — rhythm and recursion go hand in hand. <br>
@@ -14,7 +14,7 @@ Thanks for stopping by — always up for talking algorithms, art, or academia.
 <br>
 
 
-### 🧰 Languages and Technologies  
+### Languages and Technologies  
 
 <p align="left"> 
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="35"/> </a>
@@ -28,7 +28,7 @@ Thanks for stopping by — always up for talking algorithms, art, or academia.
 <br>
 
 
-### 🌍 Find Me On  
+### Find Me On  
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shatadrumidey/" target="blank">
