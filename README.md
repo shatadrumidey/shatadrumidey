@@ -1,15 +1,15 @@
 ## Hi there! I'm Shatadrumi  
 
 I’m a Mathematics & Computing sophomore at **IIT Patna**, a curious coder, classical dancer, and part-time poet.
-Thanks for stopping by — here's a menu of my curations :)
+Thanks for stopping by! here's a menu of my curations :)
 
 <br>
 
 ### About Me  
 
-- Currently exploring: Machine Learning & Competitive Programming <br>
-- Fun fact: I’ve been a Bharatanatyam dancer for 12+ years — rhythm and recursion go hand in hand. <br>
-- Also: Gold medalist in Slam Poetry (Anwesha’24).
+- Currently exploring: Machine Learning & Competitive Programming. <br>
+- Fun fact: I’ve been a Bharatanatyam dancer for 12+ years. <br>
+- Also: Gold medalist in Slam Poetry.
 
 <br>
 
